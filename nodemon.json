@@ -1,0 +1,13 @@
+{
+	"env": {
+		"DB_USER": "root",
+		"DB_PWD": "kvkiFOMGqvByvFLv",
+		"SEND_GRID_API": "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",
+		"FRONTEND_URL": "http://tresshait.s3-website.ap-south-1.amazonaws.com",
+		"AUTHTOKEN" : "089f09ca401e812595828b0b6e7d3166",
+		"AWS_ID" : "AKIAJP3OXKCZZTES7T4Q",
+		"SECRET" : "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",
+		"BUCKET_NAME_IMAGES" : "files-softapps",
+		"PORT" : "5001"
+	}
+}
